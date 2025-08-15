@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "689e9cc5f40deaff29ae0783"
+  },
+  "Id": 4569,
+  "Nombre": "Carlos",
+  "Apellido": "Juarez",
+  "Edad": 16,
+  "Curso": "3eroB"
+},
+{
+  "_id": {
+    "$oid": "689e9d5cf40deaff29ae0785"
+  },
+  "Id": 698,
+  "Nombre": "Carla",
+  "Apellido": "Martinez",
+  "Edad": 17,
+  "Curso": "3eroC"
+},
+{
+  "_id": {
+    "$oid": "689ea565f40deaff29ae0789"
+  },
+  "Id": 452,
+  "Nombre": "Rebeca",
+  "Apellido": "Gomez",
+  "Edad": 13,
+  "Curso": "9noD"
+}]

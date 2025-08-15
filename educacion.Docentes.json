@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "689e9765f40deaff29ae0778"
+  },
+  "ID": 123,
+  "Nombre": "Juan",
+  "Apellido": "Perez",
+  "Especialidad": "Lengua y Literaura",
+  "Edad": 32
+},
+{
+  "_id": {
+    "$oid": "689e989ff40deaff29ae077a"
+  },
+  "Edad": 40,
+  "ID": 236,
+  "Nombre": "Elena",
+  "Apellido": "Jaramillo",
+  "Especialidad": "Matematica"
+},
+{
+  "_id": {
+    "$oid": "689e9966f40deaff29ae077c"
+  },
+  "id": 5689,
+  "Nombre": "Cris",
+  "Apellido": "Zapata",
+  "Especialidad": "Historia",
+  "Edad": 45
+}]
